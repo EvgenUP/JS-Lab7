@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": "Книга 1",
+        "shortname": "book1",
+        "description": "Цікава книга про пригоди і подорожі.",
+        "price": "20$",
+        "image": "https://place-hold.it/200x200"
+    },
+    {
+        "id": 2,
+        "name": "Книга 2",
+        "shortname": "book2",
+        "description": "Пізнавальна книга з історії та культури.",
+        "price": "25$",
+        "image": "https://place-hold.it/200x200"
+    },
+    {
+        "id": 3,
+        "name": "Книга 3",
+        "shortname": "book3",
+        "description": "Захоплюючий роман для вечірнього читання.",
+        "price": "18$",
+        "image": "https://place-hold.it/200x200"
+    },
+    {
+        "id": 4,
+        "name": "Книга 4",
+        "shortname": "book4",
+        "description": "Науково-фантастичний роман з несподіваними поворотами сюжету.",
+        "price": "22$",
+        "image": "https://place-hold.it/200x200"
+    }
+]
+

@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "name": "Ноутбук",
+        "shortname": "laptop",
+        "description": "Lorem ipsum dolor sit amet.",
+        "price": "1000 USD",
+        "image": "https://place-hold.it/200x200"
+    },
+    {
+        "id": 2,
+        "name": "Смартфон",
+        "shortname": "smartphone",
+        "description": "Lorem ipsum dolor sit amet.",
+        "price": "500 USD",
+        "image": "https://place-hold.it/200x200"
+    }
+]
+

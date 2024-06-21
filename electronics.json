@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": "Смартфон",
+        "shortname": "smartphone",
+        "description": "Сучасний смартфон з великим екраном і потужною батареєю.",
+        "price": "500$",
+        "image": "https://place-hold.it/200x200"
+    },
+    {
+        "id": 2,
+        "name": "Ноутбук",
+        "shortname": "laptop",
+        "description": "Легкий і портативний ноутбук для роботи і розваг.",
+        "price": "1200$",
+        "image": "https://place-hold.it/200x200"
+    },
+    {
+        "id": 3,
+        "name": "Планшет",
+        "shortname": "tablet",
+        "description": "Ідеальний для перегляду відео і читання.",
+        "price": "300$",
+        "image": "https://place-hold.it/200x200"
+    },
+    {
+        "id": 4,
+        "name": "Смарт-годинник",
+        "shortname": "smartwatch",
+        "description": "Стильний смарт-годинник з безліччю функцій.",
+        "price": "150$",
+        "image": "https://place-hold.it/200x200"
+    }
+]
+
